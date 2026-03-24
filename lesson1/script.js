@@ -92,3 +92,4 @@ function checkIsObject(value) {
 
 console.log("isObject: ", checkIsObject([]));
 
+console.log('test');
