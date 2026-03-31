@@ -97,4 +97,4 @@
 // console.log(0  ||  true  &&  'false'  ||  null)
 // console.log(0  &&  true  ||  'false'  &&  null)
 // console.log(!0 && !!1)
-console.log(!(null || !'апельсин' && true))
+// console.log(!(null || !'апельсин' && true))
