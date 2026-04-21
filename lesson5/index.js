@@ -141,3 +141,12 @@ const user = {
 // const checkIsUpper = (str, n) => str[n] === str[n].toUpperCase();
 // const str = "Test";
 // console.log(checkIsUpper(str, 1));
+
+// const regExp = /[^a-zA-Zа-яА-Я0-9]/g
+// const str = 'a'
+
+// const clearString = (str) => {
+//     return str.replace(regExp, '')
+// }
+
+// console.log(clearString('dsf24!ssdf%^fsdf)'));
