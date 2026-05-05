@@ -119,3 +119,9 @@
 // 	}
 // } 
 // console.log(example(1)(2)(3));
+
+console.log("Задача №1 \n \n")
+const arr =['яблоко', "тыква", "апельсин"];
+console.log(arr);
+const newArr = arr.map((e) => e.length); 
+console.log(newArr);
