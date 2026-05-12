@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+#text {
+    color: yellow;
+}
+
+.bg {
+    background-color: grey;
+}
+.outer {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inner {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+}
+
+#form {
+    margin: 50px 0;
+}
